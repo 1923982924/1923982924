@@ -10,6 +10,7 @@ public class Test2 {
 		while(true){
 			System.out.println(1);
 			System.out.println("go");
+			System.out.println("gogo");
 		}
 	}
 	
