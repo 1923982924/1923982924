@@ -9,7 +9,6 @@ public class Test2 {
 	public static void main(String[] args) throws FileNotFoundException{
 		while(true){
 			System.out.println(1);
-			System.out.println("test");
 		}
 	}
 	
