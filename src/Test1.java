@@ -17,7 +17,7 @@ public class Test1 implements C{
 	@Override
 	public void test1() {
 		// TODO Auto-generated method stub
-		
+		System.out.println("I am new brach");
 	}
 
 	@Override
