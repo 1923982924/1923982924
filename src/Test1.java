@@ -11,7 +11,7 @@ public class Test1 implements C{
 	@Override
 	public void test() {
 		// TODO Auto-generated method stub
-		
+		System.out.println();
 	}
 
 	@Override
