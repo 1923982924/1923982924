@@ -1,11 +1,15 @@
+import java.math.BigInteger;
+
 
 public class Test1 implements C{
 
 	public static void main(String[] args){
-		new Thread(new Runnable(){  
+		/*new Thread(new Runnable(){  
             public void run(){  
             	System.out.println("start...");
-            }}).start();  
+            }}).start();*/  
+		System.out.println(Integer.MAX_VALUE);
+		System.out.println(Long.MAX_VALUE);
 	}
 
 	@Override
